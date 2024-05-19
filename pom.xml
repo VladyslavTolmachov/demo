@@ -115,9 +115,9 @@
                 <version>2.13.0</version>
                 <configuration>
                     <schemaVersion>v2</schemaVersion>
-                    <resourceGroup>demo9-with-code-rg</resourceGroup>
+                    <resourceGroup>rg-nemanja-personal</resourceGroup>
                     <appName>demo9-with-code</appName>
-                    <pricingTier>B2</pricingTier>
+                    <pricingTier>B1</pricingTier>
                     <region>West Europe</region>
                     <runtime>
                         <os>Linux</os>
