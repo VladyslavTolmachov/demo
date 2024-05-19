@@ -115,10 +115,9 @@
                 <version>2.13.0</version>
                 <configuration>
                     <schemaVersion>v2</schemaVersion>
-                    <subscriptionId>Azure subscription 1</subscriptionId>
                     <resourceGroup>demo9-code-with-quarkus-rg</resourceGroup>
                     <appName>demo9-code-with-quarkus</appName>
-                    <pricingTier>B3</pricingTier>
+                    <pricingTier>B2</pricingTier>
                     <region>West Europe</region>
                     <runtime>
                         <os>Linux</os>
