@@ -117,7 +117,7 @@
                     <schemaVersion>v2</schemaVersion>
                     <resourceGroup>code-111222333-with-quarkus-rg</resourceGroup>
                     <appName>code-111222333-with-quarkus</appName>
-                    <pricingTier>B1</pricingTier>
+                    <pricingTier>B3</pricingTier>
                     <region>West Europe</region>
                     <runtime>
                         <os>Linux</os>
